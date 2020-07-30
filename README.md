@@ -1,5 +1,4 @@
-Kobiav
-Yaakov Amsellem 312560162
+KobiAms
 
 The program shows a simulation for disk management on a computer. The program first opens an existing file in the folder representing the disk. The disk must be formatted (command 2) and divided into the required block size as well as how many blocks in each file are written directly (Direct Entries).
 Each file will receive an additional block for saving pointers to additional blocks in order to add memory to the file (single in direct).
